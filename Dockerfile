@@ -30,3 +30,5 @@ ADD runTest1.sh /usr/local/bin/
 
 RUN chmod +x /usr/local/bin/*.r
 RUN chmod +x /usr/local/bin/runTest1.sh
+
+
