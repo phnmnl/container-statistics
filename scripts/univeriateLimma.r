@@ -38,7 +38,7 @@ parser$add_argument("-c", "--covariates", type="character",
 
 
 parser$add_argument("-g", "--group", type="character",
-                    help="Treatment conditions to be preserved")
+                    help="Treatment conditions to do statistics based on")
 
 
 parser$add_argument("-f", "--contrasts", type="character",
