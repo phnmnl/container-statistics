@@ -6,7 +6,7 @@ A collection of scripts for performing downstream analysis
 
 ## Description
 
-Moderated t-statistics and regression based batch/covarite effect adjustment
+Moderated t-statistics and regression based batch/covariate effect adjustment
 
 ## Key features
 
@@ -30,13 +30,6 @@ Smyth GK
 
 - [Payam Emami](https://github.com/PayamEmami) (Stockholm U. - NBIS)
 
-## Website
-
-- http://msbi.ipb-halle.de/msbi/CAMERA/
-
-## Git Repository
-
-- https://github.com/sneumann/CAMERA
 
 ## Installation
 
