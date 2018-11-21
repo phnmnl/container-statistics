@@ -11,6 +11,7 @@ Moderated t-statistics and regression based batch/covariate effect adjustment
 ## Key features
 
 - Downstream analysis
+- Statistics
 
 ## Approaches
 
