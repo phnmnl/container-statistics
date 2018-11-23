@@ -12,7 +12,7 @@ RUN apt-get -y update
 RUN apt-get -y --no-install-recommends install make gcc gfortran g++ libblas-dev liblapack-dev libxml++2.6-dev libexpat1-dev libxml2
 
 # Install dependencies
-RUN R -e 'source("https://bioconductor.org/biocLite.R"); biocLite((c("limma","argparse"))'
+RUN R -e 'source("https://bioconductor.org/biocLite.R"); biocLite(c("limma","argparse"));'
 
 
 # De-install not needed packages
